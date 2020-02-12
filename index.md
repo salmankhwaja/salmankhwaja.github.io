@@ -1,123 +1,53 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+##  About Salman, Khwaja. - CEH - Asana Certified Consultant Pro
 
-[Link to another page](./another-page.html).
+He has been associated with Pakistan Software Industry for the last **14** years. 
 
-There should be whitespace between paragraphs.
+During his recent 3 years, he has performed consistantly on performingly levels. He has been moved from the time, when QA department was in trenches (around 2011) and has moved to Compliance. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+During the same time frame, He was also looking after TFS (Team Foundation Server). He had the knack of transferring knowledge and transferred the  TFS Administration and migration knowledge to Network team. This was very evident from the TFS Migrations, as the first TFS Migration was performed by Salman, Khwaja (TFS 2012 - 2013) and second migration was performed by Networks Team (TFS 2013 - 2015) and third was done by CI CD Team (TFS 2015-2018). 
 
-# Header 1
+He was also the go to personnel for TFS till he transferred his TFS knowlegde to Networks.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+He was passionately looking after **Information Security** or **Application Security** and made a switch from Compliance to Application Security. He learned the ropes of **Application security** and became the goto person for answering all the Application Security related queries to Development, QA, and Support Teams. He also became well versed with **PCI- PA-DSS**. 
 
-## Header 2
+13+ years professional experience of **Information Security Consultant** who has worked in the capacity of a InfoSec. Consultant, Information Systems Auditor / Web Smith / Business Process Engineer to ensure that the policies / procedures for multiple standards, namely, **ISO 9001:2008, ISO 27001, and Software Security** are well documented, known to people (Software Engineers / Deployment Engineer) and Automated in CI / CD Pipeline. 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Security Awareness Training Awareness  
+It is his knack of knowledge sharing, that I gave him the task of Training Manager of DevOps and he has been persuing the whole team to provide trainings. We are also implementing TPS Training Academy. On training front, he has provided the following trainings in TPS and TPSEdison can be assessed as evidence
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+- ASANA Training
+- PA-DSS 3.2 training for PayAxis
+- OWASP Top 10 for Web Training for Developers with Demonstration to discover basic vulnerabilities.
 
 
-### Definition lists can be used with HTML syntax.
+### Implementation of SecDevOps
+On the  **Application Security** front, he has been implementing automation in Information Security from the time, he has been moved from Bussiness Excellence and then he decided to switch fully to DevOps. He implemented the DAST tools, namely Netsparker, Accunetix, and Owasp Zap into TFS Automation framework. 
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+He has implemented the following in DevSecOps team 
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+- Implemented Automated DAST Scanning, Active Scanning, and Reporting of Vulnerabilities
+- Implemented IIS Automated Hardening
+- Implemented IIS Automated Scanning Hardening Index
+- Implemented IIS 
+- Implemented PA-DSS Audits
+- 
 
-```
-The final element.
-```
+### Implementation of Vulnerability Management Procedure
+
+On the vunlerablity management front, he has been maintaing a **blog** on different posts and he has automated the task of dissemating the knowlegde of Vulnerability management to internal as well as external teams about different alerts, which ranges from differnet sources. 
+
+### AgilePK functions
+- 
+    
+His primary functions right now are 
+- to conduct Penetration Testing & Vulnerability Assessment towards our clients' Web application, Mobile Applications, Systems, Network and IT Infrastructures using industry recognized methodologies (OSSTMM and OWASP).
+- Conduct Security Audit for servers and devices using recognized baselines such as CIS.
+- Conduct Source Code review for Web and Mobile Application (added advantages)
+- Research and discover new penetration tools and methodology.
+- Liaise with our clients and prepare reports with remediation/recommendation.
+- Implement ISO 27001:2013 in TPS
+- Implement SDL in TPS
+- Implement SecDevOps in TPS.
+
+
