@@ -14,7 +14,7 @@ He was passionately looking after **Information Security** or **Application Secu
 13+ years professional experience of **Information Security Consultant** who has worked in the capacity of a InfoSec. Consultant, Information Systems Auditor / Web Smith / Business Process Engineer to ensure that the policies / procedures for multiple standards, namely, **ISO 9001:2008, ISO 27001, and Software Security** are well documented, known to people (Software Engineers / Deployment Engineer) and Automated in CI / CD Pipeline. 
 
 ### Security Awareness Training Awareness  
-It is his knack of knowledge sharing, that I gave him the task of Training Manager of DevOps and he has been persuing the whole team to provide trainings. We are also implementing TPS Training Academy. On training front, he has provided the following trainings in TPS and TPSEdison can be assessed as evidence
+It is his knack of knowledge sharing, that he took the task of Training Manager of DevOps and he has been persuing the whole team to provide trainings. We are also implementing TPS Training Academy. On training front, he has provided the following trainings in TPS and TPSEdison can be assessed as evidence
 
 - ASANA Training
 - PA-DSS 3.2 training for PayAxis
@@ -38,8 +38,7 @@ He has implemented the following in DevSecOps team
 On the vunlerablity management front, he has been maintaing a **blog** on different posts and he has automated the task of dissemating the knowlegde of Vulnerability management to internal as well as external teams about different alerts, which ranges from differnet sources. 
 
 ### AgilePK functions
-- 
-    
+  
 His primary functions right now are 
 - to conduct Penetration Testing & Vulnerability Assessment towards our clients' Web application, Mobile Applications, Systems, Network and IT Infrastructures using industry recognized methodologies (OSSTMM and OWASP).
 - Conduct Security Audit for servers and devices using recognized baselines such as CIS.
