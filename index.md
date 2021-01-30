@@ -32,6 +32,22 @@ He has implemented the following in DevSecOps team
 - Implemented IIS 
 - Implemented PA-DSS Audits
 - 
+## Speaking Gigs done so far. 
+Salman, Khwaja Speaking Session on All Day Dev Ops
+DevOps :: Story of Implementation of SecDevOps in Fin Tech Organization</br>
+[Linkedin Event](https://www.linkedin.com/events/alldaydevops-startingon/) </br>
+[Youtube Recording of the same](https://www.youtube.com/watch?v=4jFiTTopeCg&t=2h00m29s)</br>
+
+ECCouncil - SOC Analyst to combat Cyber Threats</br>
+[Linkedin Event](https://www.linkedin.com/events/eccouncil-socanalysttocombatcyberthreats/) </br>
+[Youtube Recording of the same](https://www.youtube.com/watch?v=BtHOuOv6lFI) </br>
+
+Salman, Khwaja and Umair Khalid on Improving Security and Productivity while Working from Home from the platform of Agile Development Society</br>
+[Linkedin Event](https://www.linkedin.com/events/6655858857274810368/) </br>
+[Youtube Recording of the same](https://www.youtube.com/watch?v=mzFm6Y65Kag&feature=youtu.be) </br>
+[Facebook Recording of the same](https://m.facebook.com/story.php?story_fbid=524085068255058&id=1487226818214322) </br>
+
+
 
 ### Implementation of Vulnerability Management Procedure
 
