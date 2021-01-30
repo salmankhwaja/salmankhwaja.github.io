@@ -44,9 +44,8 @@ ECCouncil - SOC Analyst to combat Cyber Threats</br>
 
 Salman, Khwaja and Umair Khalid on Improving Security and Productivity while Working from Home from the platform of Agile Development Society</br>
 [Linkedin Event](https://www.linkedin.com/events/6655858857274810368/) </br>
-[Youtube Recording of the same](https://www.youtube.com/watch?v=mzFm6Y65Kag&feature=youtu.be) </br>
+[Youtube Recording of the same](https://www.youtube.com/watch?v=mzFm6Y65Kag&feature=youtu.be&t=35m) </br>
 [Facebook Recording of the same](https://m.facebook.com/story.php?story_fbid=524085068255058&id=1487226818214322) </br>
-
 
 
 ### Implementation of Vulnerability Management Procedure
@@ -66,5 +65,5 @@ His primary functions right now are
 - Implement SecDevOps in TPS.
 
 ## Worth Watching Repos
-https://github.com/salmankhwaja/salmankhwaja.github.io/blob/master/worthwatchingrepos.md
+[https://github.com/salmankhwaja/salmankhwaja.github.io/blob/master/worthwatchingrepos.md](https://github.com/salmankhwaja/salmankhwaja.github.io/blob/master/worthwatchingrepos.md)
 
