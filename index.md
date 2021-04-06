@@ -31,12 +31,13 @@ He has implemented the following in DevSecOps team
 - Implemented IIS Automated Scanning Hardening Index
 - Implemented IIS 
 - Implemented PA-DSS Audits
-- 
+
+
 ## Speaking Gigs done so far. 
-- Salman, Khwaja Speaking Session on All Day Dev Ops  
-DevOps :: Story of Implementation of SecDevOps in Fin Tech Organization </br>
-[Linkedin Event](https://www.linkedin.com/events/alldaydevops-startingon/) </br>
-[Youtube Recording of the same](https://www.youtube.com/watch?v=4jFiTTopeCg&t=2h00m29s)</br>
+1. Salman, Khwaja Speaking Session on All Day Dev Ops  <br>
+DevOps :: Story of Implementation of SecDevOps in Fin Tech Organization <br>
+[Linkedin Event](https://www.linkedin.com/events/alldaydevops-startingon/) <br>
+[Youtube Recording of the same](https://www.youtube.com/watch?v=4jFiTTopeCg&t=2h00m29s)<br>
 
 ECCouncil - SOC Analyst to combat Cyber Threats</br>
 [Linkedin Event](https://www.linkedin.com/events/eccouncil-socanalysttocombatcyberthreats/) </br>
