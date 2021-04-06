@@ -38,9 +38,9 @@ He has implemented the following in DevSecOps team
 1. ZapCon21 
 The first user conference dedicated to OWASP ZAP and application security testing. <br>
 Salman, Khwaja and Hammad ul Hassan discussed the ZAP IMPLEMENTATION IN PAKISTANI FINTECH in this conference. <br>
--- [https://zapcon.io/#speakers](https://zapcon.io/#speakers)
--- [Linkedin Event](https://www.linkedin.com/events/zapcon20216774925481373425664/)
--- The whole talks is available on Youtube @ [ZapCon Youtube Stream](https://www.youtube.com/watch?v=xlt---D9I3w?t=2h56m54s)
+More information about SPEAKERS of this ZAP CON. [https://zapcon.io/#speakers](https://zapcon.io/#speakers) <br>
+Linked in Event of this ZAP CON. [Linkedin Event](https://www.linkedin.com/events/zapcon20216774925481373425664/) <br>
+The whole talks is available on Youtube @ [ZapCon Youtube Stream](https://www.youtube.com/watch?v=xlt---D9I3w?t=2h56m54s) <br>
 </p>
   
 <p>  
