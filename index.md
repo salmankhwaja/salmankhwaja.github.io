@@ -40,13 +40,16 @@ Salman, Khwaja and Hammad ul Hassan discussed the ZAP IMPLEMENTATION IN PAKISTAN
 More information about SPEAKERS of this ZAP CON. [https://zapcon.io/#speakers](https://zapcon.io/#speakers) <br>
 Linked in Event of this ZAP CON. [Linkedin Event](https://www.linkedin.com/events/zapcon20216774925481373425664/) <br>
 The whole talks is available on Youtube @ [ZapCon Youtube Stream](https://www.youtube.com/watch?v=xlt---D9I3w?t=2h56m54s)
+
 2. Salman, Khwaja Speaking Session on All Day Dev Ops  <br>
 DevOps :: Story of Implementation of SecDevOps in Fin Tech Organization <br>
 [Linkedin Event](https://www.linkedin.com/events/alldaydevops-startingon/) <br>
 [Youtube Recording of the same](https://www.youtube.com/watch?v=4jFiTTopeCg&t=2h00m29s)
+
 3. ECCouncil - SOC Analyst to combat Cyber Threats<br>
 [Linkedin Event](https://www.linkedin.com/events/eccouncil-socanalysttocombatcyberthreats/) <br>
 [Youtube Recording of the same](https://www.youtube.com/watch?v=BtHOuOv6lFI) <br>
+
 4. Salman, Khwaja and Umair Khalid on Improving Security and Productivity while Working from Home from the platform of Agile Development Society
 [Linkedin Event](https://www.linkedin.com/events/6655858857274810368/) <br>
 [Youtube Recording of the same](https://www.youtube.com/watch?v=mzFm6Y65Kag&feature=youtu.be&t=35m) <br>
